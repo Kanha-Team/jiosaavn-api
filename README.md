@@ -65,6 +65,14 @@ docker run -p 8080:8080 jiosaavn-api
 - `GET /api/modules/charts` - Get top charts
 - `GET /api/modules/playlists` - Get featured playlists
 
+## Community & Credits
+
+- **Developer:** [Kanha](https://github.com/Kanha-Team)
+- **Contact Owner:** [@xoknha](https://t.me/xoknha)
+- **Official Channel:** [@meowcloner](https://t.me/meowcloner)
+- **Official Group:** [@meowclone](https://t.me/meowclone)
+- **GitHub:** [Kanha-Team](https://github.com/Kanha-Team)
+
 ## License
 
 MIT License. Maintained by [Kanha-Team](https://github.com/Kanha-Team).
