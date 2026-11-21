@@ -1,0 +1,17 @@
+# Binaries
+/jiosaavn-api
+/bin/
+
+# Dependency directories
+vendor/
+
+# Environment files
+.env
+.env.local
+
+# OS / Editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.log

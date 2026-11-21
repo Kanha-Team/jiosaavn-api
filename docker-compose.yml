@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  jiosaavn-api:
+    build: .
+    container_name: jiosaavn-api
+    restart: always
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+      - GIN_MODE=release
